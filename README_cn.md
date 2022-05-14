@@ -11,6 +11,7 @@ __请注意！此关卡集由于使用 Super Mario World 的字体文件，导�
 ## 信用（授权）
 ### 精灵图块素材
 Nin-star - 主菜单的背景
+
 Nintendo - 所有使用有关马里奥的物件
 ### 脚本
 Hengshao - 烟花火箭
