@@ -2,6 +2,10 @@
 ## 描述
 If you using English, Please click: [English](https://github.com/Rosalina129/smbxware/blob/main/README.md)
 
+### 论坛网址
+- [SMBX 中文论坛](https://smbx.world/d/105-38a-smbx-ware)
+- [Wohlsoft Forums](https://wohlsoft.ru/forum/viewtopic.php?f=61&t=4535)
+
 __请注意！此关卡集由于使用 Super Mario World 的字体文件，导致无法制作中文版本，望见谅。__
 
 一个 Ware 又不 Ware 的地图，在这里，你可以操控你的角色，进行一系列的挑战，在这个类似舞台的场景，通过达到下方的要求，不断闯关。
