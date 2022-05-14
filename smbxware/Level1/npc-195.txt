@@ -1,0 +1,2 @@
+nolava=0
+lavadmg=-1

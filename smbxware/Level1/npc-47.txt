@@ -1,0 +1,1 @@
+scripts=##ware:SMB3SpikeLakitu

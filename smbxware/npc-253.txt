@@ -1,0 +1,3 @@
+gfxwidth=16
+gfxheight=20
+frames=1

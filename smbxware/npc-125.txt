@@ -1,0 +1,6 @@
+gfxwidth=64
+gfxheight=40
+frames=21
+noblockcollision=1
+nonpccollision=1
+scripts=ware:timer

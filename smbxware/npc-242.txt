@@ -1,0 +1,10 @@
+gfxwidth=18
+gfxheight=18
+gfxsplitheight=18
+frames=1
+width=16
+height=16
+npcblock=0
+noblockcollision=1
+nonpccollision=1
+scripts=ware:Fireworks

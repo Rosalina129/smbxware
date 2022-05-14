@@ -1,0 +1,17 @@
+frames=1
+zposition=0.2
+directivegfx=1
+noblockcollision=1
+nonpccollision=1
+spinjump=0
+yoshihurt=0
+shoehurt=0
+nolava=1
+nofireball=1
+nohammer=1
+noiceball=1
+noyoshi=1
+noleaf=1
+noblockhit=1
+noshell=1
+nohurt=1
